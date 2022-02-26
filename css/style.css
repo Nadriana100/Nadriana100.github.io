@@ -1,0 +1,38 @@
+    h1{
+        font-size:80px;
+    }
+
+    .blue{
+        color:blue;
+    }
+
+    #blueviolet {
+                color: blueviolet;
+            }
+
+    .red{
+        color: red;
+    }
+
+.alignLeft{
+
+    text-align: left;
+
+}
+.alingCenter{
+    text-align: center;
+
+}
+
+.alingRight{
+    text-align: right;
+
+}
+
+.white{
+    color:white;
+}
+
+.blackBackground{
+    background-color: black;
+}
